@@ -1,0 +1,502 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1734802814161597, "dur":33837, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802814195443, "dur":106, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802814195587, "dur":353, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802814196040, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1734802814196160, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1734802814196483, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734802814196709, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734802814195961, "dur":3403, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802814199365, "dur":1247417, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802815446783, "dur":214, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802815447116, "dur":1653, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1734802814196213, "dur":3158, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734802814202126, "dur":1020, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity 6000.0.27f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1734802814203147, "dur":6055, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity 6000.0.27f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1734802814209202, "dur":93, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity 6000.0.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1734802814209295, "dur":1200, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity 6000.0.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1734802814210495, "dur":76, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity 6000.0.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":1, "ts":1734802814210572, "dur":208, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity 6000.0.27f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1734802814210780, "dur":135, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1734802814199373, "dur":11609, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734802814211486, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734802814211558, "dur":1046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/nooru/Veggie Samurai/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1734802814212604, "dur":2972, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734802814220107, "dur":77902, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814220041, "dur":77969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814298044, "dur":5289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814303390, "dur":62885, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814303337, "dur":62940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814366301, "dur":8128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814374512, "dur":43480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814374436, "dur":43558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814418027, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814419631, "dur":54272, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814419572, "dur":54334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814473935, "dur":2744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814476748, "dur":61133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814476685, "dur":61201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814537927, "dur":2909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814540895, "dur":221351, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814540842, "dur":221407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814762291, "dur":5790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814768147, "dur":58092, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814768085, "dur":58159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814826274, "dur":5407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814893164, "dur":421411, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802814831686, "dur":482891, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802815314609, "dur":3277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802815318027, "dur":57559, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802815317892, "dur":57696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802815375618, "dur":1170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734802815376791, "dur":70008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814196508, "dur":2896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814199407, "dur":1553, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814200961, "dur":1112, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814202074, "dur":1468, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814203542, "dur":7454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814210996, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1734802814211485, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814211560, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1734802814211676, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1734802814211733, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814211800, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814211948, "dur":8095, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814220144, "dur":358688, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814220046, "dur":358788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814609813, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814578877, "dur":31060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814610033, "dur":209261, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814609943, "dur":209353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814831848, "dur":540, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814819324, "dur":13076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814832497, "dur":141840, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814832403, "dur":141936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814974349, "dur":1490, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814978186, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802814975848, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814978408, "dur":61190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802814978345, "dur":61262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815047313, "dur":261, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802815039629, "dur":7995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815047712, "dur":78831, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815047628, "dur":78920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815126560, "dur":163, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802815126732, "dur":2146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815129015, "dur":79197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815128885, "dur":79330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815210319, "dur":304, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734802815208246, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815210788, "dur":234861, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815210646, "dur":235006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734802815445686, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814196238, "dur":3138, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814199383, "dur":1662, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814201046, "dur":1131, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814202177, "dur":1402, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814203580, "dur":7412, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814210994, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1734802814211528, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814211606, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1734802814211720, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai.exe" }}
+,{ "pid":12345, "tid":3, "ts":1734802814211792, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814211941, "dur":8104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814220124, "dur":45560, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814220046, "dur":45640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814266609, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814273045, "dur":2447, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814266998, "dur":8558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814275726, "dur":304547, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814275563, "dur":304712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814580284, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814589246, "dur":1817, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802814580356, "dur":10723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814591221, "dur":420530, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802814591088, "dur":420666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815011784, "dur":1872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815013742, "dur":166906, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815013663, "dur":166988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815180661, "dur":116, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802815180784, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815183648, "dur":66853, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815183524, "dur":66980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815250512, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734802815250598, "dur":5828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815256592, "dur":74255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815256433, "dur":74426, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815330877, "dur":3458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734802815334341, "dur":112436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814196304, "dur":3084, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814199391, "dur":1292, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814200684, "dur":1130, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814201814, "dur":1158, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814202972, "dur":694, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814203666, "dur":7321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814210993, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1734802814211486, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814211556, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1734802814211622, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814211730, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1734802814211843, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814211976, "dur":8089, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734802814220155, "dur":45944, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814220067, "dur":46033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814267112, "dur":2665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814269840, "dur":161861, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814269783, "dur":161920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814431751, "dur":4245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814436057, "dur":243700, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814436002, "dur":243758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814679795, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814681435, "dur":86281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814681378, "dur":86341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814767750, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814769135, "dur":60146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814769073, "dur":60211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814829330, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814831268, "dur":137416, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814831209, "dur":137477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814968706, "dur":2312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814971162, "dur":184042, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802814971045, "dur":184162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815155234, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815157916, "dur":62314, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815157773, "dur":62459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815220286, "dur":1458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815221885, "dur":188669, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815221756, "dur":188801, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815410601, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734802815412504, "dur":34277, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814196613, "dur":2798, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814199413, "dur":1333, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814200747, "dur":1136, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814201884, "dur":1083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814202968, "dur":1224, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814204194, "dur":6816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814211010, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1734802814211528, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814211614, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1734802814211681, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814211965, "dur":8076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734802814220137, "dur":156456, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814220044, "dur":156553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814376651, "dur":8774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814385496, "dur":113759, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814385434, "dur":113824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814499292, "dur":1382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814500740, "dur":88823, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814500679, "dur":88886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814589584, "dur":2411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814592052, "dur":49767, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814591998, "dur":49824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814641853, "dur":4541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814646457, "dur":55119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814646402, "dur":55177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814701610, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814703370, "dur":147516, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814703309, "dur":147580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814850917, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814852177, "dur":50084, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814852123, "dur":50145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814902301, "dur":4630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814907012, "dur":134845, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802814906943, "dur":134916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815041882, "dur":6324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815048266, "dur":48576, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815048209, "dur":48635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815096861, "dur":3458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815100449, "dur":140480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815100324, "dur":140609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815240960, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815242664, "dur":166754, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815242542, "dur":166883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815409464, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734802815411109, "dur":35674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814196681, "dur":2737, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814199421, "dur":1367, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814200789, "dur":1124, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814201914, "dur":1128, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814203042, "dur":7990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814211034, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1734802814211528, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814211597, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1734802814211700, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814211767, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814211979, "dur":8080, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734802814220143, "dur":71697, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814220062, "dur":71780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814292012, "dur":5073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814297152, "dur":67729, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814297090, "dur":67795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814364950, "dur":4097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814369116, "dur":69295, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814369052, "dur":69362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814438447, "dur":2003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814440513, "dur":139100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814440455, "dur":139160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814579638, "dur":4046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814583816, "dur":119167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814583706, "dur":119279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814703019, "dur":7303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814710397, "dur":85395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814710329, "dur":85468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814795842, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814797769, "dur":133547, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814797696, "dur":133623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814931350, "dur":4066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814935515, "dur":193522, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802814935427, "dur":193612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815129060, "dur":3201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815132362, "dur":49727, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815132262, "dur":49830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815182121, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815183637, "dur":143214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815183533, "dur":143321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815326897, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734802815328357, "dur":118421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814196441, "dur":2957, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814199401, "dur":1434, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814200835, "dur":1144, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814201980, "dur":1408, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814203388, "dur":7598, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814211484, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814211569, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814211674, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1734802814211878, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814211994, "dur":8219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734802814220309, "dur":45920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814220215, "dur":46016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814266917, "dur":3328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814270297, "dur":80245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814270248, "dur":80297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814350578, "dur":7069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814357711, "dur":99597, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814357653, "dur":99657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814457339, "dur":2043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814459473, "dur":55365, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814459387, "dur":55455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814514885, "dur":2265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814517214, "dur":298915, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814517155, "dur":298977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814816161, "dur":5675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814821903, "dur":120604, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814821843, "dur":120668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814942555, "dur":4105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814946730, "dur":206141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802814946669, "dur":206204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815152902, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815155245, "dur":94210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815155052, "dur":94405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815249484, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815252955, "dur":99782, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815252832, "dur":99908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815352792, "dur":4923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734802815357717, "dur":89076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814196722, "dur":2708, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814199432, "dur":1428, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814200860, "dur":1150, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814202010, "dur":1494, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814203504, "dur":7530, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814211035, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1734802814211484, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814211580, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1734802814211697, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1734802814211950, "dur":8238, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814220408, "dur":111110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814220189, "dur":111333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814333653, "dur":365, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814331593, "dur":2439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814334113, "dur":94204, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814334036, "dur":94283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814428330, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814429672, "dur":282, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814428481, "dur":1489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814430055, "dur":386646, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814429974, "dur":386730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814816716, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802814816816, "dur":8547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814825427, "dur":137970, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814825368, "dur":138031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814963430, "dur":4888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814968383, "dur":66017, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802814968324, "dur":66078, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815034433, "dur":5006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815039527, "dur":54758, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815039445, "dur":54843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815094299, "dur":2128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802815096437, "dur":12780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815109393, "dur":67245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815109226, "dur":67415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815176688, "dur":191, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802815176887, "dur":2802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815179834, "dur":109810, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815179694, "dur":109952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815289657, "dur":95, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734802815289768, "dur":3809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815293703, "dur":59034, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815293583, "dur":59157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815352773, "dur":4734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734802815357513, "dur":89284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814196704, "dur":2720, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814199426, "dur":1295, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814200721, "dur":1134, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814201855, "dur":1135, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814202990, "dur":8000, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814210993, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1734802814211526, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814211610, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1734802814211751, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814211830, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814211899, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814211974, "dur":8147, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814220216, "dur":44211, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814220124, "dur":44313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814272688, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814267346, "dur":5485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814272913, "dur":60281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814272836, "dur":60360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814333210, "dur":1171, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814336115, "dur":4934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814341146, "dur":177150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814341057, "dur":177243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814518314, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814548844, "dur":322, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814518476, "dur":30727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814549283, "dur":66671, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814549209, "dur":66747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814615968, "dur":711, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814618656, "dur":276, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802814616686, "dur":2288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814626811, "dur":324107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814618978, "dur":331942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814950956, "dur":10079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814961109, "dur":133050, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802814961044, "dur":133119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815094181, "dur":351, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802815094541, "dur":4627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815099325, "dur":159206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815099177, "dur":159357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815260508, "dur":273, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734802815258563, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815261130, "dur":91608, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815260800, "dur":91948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815352794, "dur":4911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734802815357708, "dur":89072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814196763, "dur":2677, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814199442, "dur":1482, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814200924, "dur":1160, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814202085, "dur":1388, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814203474, "dur":7510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814211526, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814211602, "dur":767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1734802814212447, "dur":7600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734802814220154, "dur":81640, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814220050, "dur":81747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814301869, "dur":1656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814303582, "dur":202649, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814303528, "dur":202706, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814506261, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814508748, "dur":71841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814508676, "dur":71914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814580633, "dur":8650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814589351, "dur":91405, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814589290, "dur":91468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814680786, "dur":12094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814692953, "dur":49624, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814692889, "dur":49690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814742668, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814743889, "dur":73894, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814743832, "dur":73954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814817868, "dur":6478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814824423, "dur":85616, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814824357, "dur":85685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814910093, "dur":4134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814914294, "dur":138255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802814914234, "dur":138318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815052581, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815054378, "dur":76844, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815054316, "dur":76909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815131248, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815132427, "dur":272283, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815132253, "dur":272470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815404786, "dur":2072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734802815406865, "dur":39927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814196742, "dur":2693, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814199437, "dur":1497, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814200934, "dur":1121, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814202056, "dur":1403, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814203459, "dur":7549, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814211010, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1734802814211534, "dur":199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814211748, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814211918, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814212028, "dur":8154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734802814220426, "dur":157287, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814220185, "dur":157530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814377760, "dur":12627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814390450, "dur":566412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814390392, "dur":566472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814956929, "dur":4672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814961662, "dur":50891, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802814961604, "dur":50952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815012580, "dur":3926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815016573, "dur":43375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815016510, "dur":43440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815060003, "dur":10017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815070149, "dur":59971, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815070029, "dur":60093, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815130144, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815131663, "dur":47533, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815131540, "dur":47658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815179226, "dur":3304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815182660, "dur":136336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815182536, "dur":136462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815319024, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815320854, "dur":47438, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815320662, "dur":47632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815368323, "dur":1131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734802815369459, "dur":77327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814196833, "dur":2618, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814199453, "dur":1330, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814200784, "dur":1125, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814201910, "dur":1176, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814203086, "dur":7902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814210993, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1734802814211527, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814211745, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814211803, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814211926, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814211982, "dur":8071, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734802814220272, "dur":98627, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814220057, "dur":98845, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814318956, "dur":2425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814321468, "dur":250361, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814321390, "dur":250442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814571872, "dur":3160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814575123, "dur":50448, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814575041, "dur":50533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814625604, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814627044, "dur":61588, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814626989, "dur":61647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814688686, "dur":4241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814692987, "dur":93196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814692931, "dur":93255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814786221, "dur":2033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814788326, "dur":74210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814788261, "dur":74291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814862678, "dur":14263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814877007, "dur":139841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802814876946, "dur":139904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815016870, "dur":6296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815023237, "dur":73441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815023172, "dur":73509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815096708, "dur":3784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815100610, "dur":117855, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815100496, "dur":117972, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815218501, "dur":1839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815220501, "dur":110323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815220345, "dur":110482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815330862, "dur":2132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nooru/OneDrive/Desktop/build/Veggie Samurai_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734802815333007, "dur":113769, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734802815451987, "dur":1706, "ph":"X", "name": "ProfilerWriteOutput" }
+,
