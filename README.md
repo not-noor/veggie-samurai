@@ -12,5 +12,5 @@
    ```bash
    git clone https://github.com/your-username/veggie-samurai.git
    ```
-2. Open the project in Unity (version 202x.x or higher).  
+2. Open the project in Unity (version 60000.0.27f1 or higher).  
 3. Press the **Play** button in the Unity Editor to test the game.  
